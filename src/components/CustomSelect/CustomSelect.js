@@ -6,7 +6,7 @@ import arrDown from "../../Images/arr-down.svg";
 function CustomSelect() {
   return (
     <div className="d-flex align-items-center justify-content-between CustomSelect">
-      <label className="m-0" for="location">
+      <label className="m-0" htmlFor="location">
         <img src={pinIcon} alt="location" className="locationIcon" />
         City or area
       </label>
