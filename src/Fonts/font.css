@@ -1,0 +1,55 @@
+@font-face {
+  font-family: "Neue Haas Grotesk Display Pro";
+  font-style: normal;
+  font-weight: 100;
+  src: local("Neue Haas Grotesk Display Pro 15 XXThin"),
+    url("NeueHaasDisplayXXThin.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Neue Haas Grotesk Display Pro";
+  font-style: normal;
+  font-weight: 200;
+  src: local("Neue Haas Grotesk Display Pro 25 XThin"),
+    url("NeueHaasDisplayXThin.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Neue Haas Grotesk Display Pro";
+  font-style: normal;
+  font-weight: 300;
+  src: local("Neue Haas Grotesk Display Pro 35 Thin"),
+    url("NeueHaasDisplayThin.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Neue Haas Grotesk Display Pro";
+  font-style: normal;
+  font-weight: 400;
+  src: local("Neue Haas Grotesk Display Pro 55 Roman"),
+    url("NeueHaasDisplayRoman.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Neue Haas Grotesk Display Pro";
+  font-style: normal;
+  font-weight: 600;
+  src: local("Neue Haas Grotesk Display Pro 65 Medium"),
+    url("NeueHaasDisplayMediu.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Neue Haas Grotesk Display Pro";
+  font-style: normal;
+  font-weight: 700;
+  src: local("Neue Haas Grotesk Display Pro 75 Bold"),
+    url("NeueHaasDisplayBold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Neue Haas Grotesk Display Pro";
+  font-style: normal;
+  font-weight: 900;
+  src: local("Neue Haas Grotesk Display Pro 95 Black"),
+    url("NeueHaasDisplayBlack.woff") format("woff");
+}

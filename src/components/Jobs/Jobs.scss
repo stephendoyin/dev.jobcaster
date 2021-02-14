@@ -1,0 +1,27 @@
+.JobItemCard {
+  background: #ffffff;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 6px;
+  min-height: 365px;
+  padding: 40px;
+
+  &Title {
+    color: rgba(0, 0, 0, 0.87);
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 24px;
+  }
+}
+
+.JobDescription {
+  color: rgba(0, 0, 0, 0.6);
+  font-size: 16px;
+
+  .dot {
+    height: 4px;
+    width: 4px;
+    background: rgba(0, 0, 0, 0.6);
+    margin: 0 6px 3px 6px;
+    font-weight: 600;
+  }
+}

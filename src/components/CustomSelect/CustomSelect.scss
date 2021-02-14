@@ -1,0 +1,19 @@
+.CustomSelect {
+  height: 100%;
+  width: calc(100% - 212px);
+  label {
+    font-size: 16px;
+    color: rgba(0, 0, 0, 0.6);
+  }
+}
+
+.locationIcon,
+.ArrDownIcon {
+  margin: 0 22px;
+}
+
+#location {
+  cursor: pointer;
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.87);
+}

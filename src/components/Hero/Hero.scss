@@ -1,0 +1,47 @@
+.Hero {
+  background: url(../../Images/hero.png);
+  height: 550px;
+  background-position: center;
+  background-size: cover;
+
+  &Search {
+    height: 80px;
+    width: 100%;
+    background: #fff;
+    top: -40px;
+    box-shadow: 0px 10px 20px 10px rgba(0, 0, 0, 0.05);
+    border-radius: 6px;
+  }
+
+  &Input {
+    width: 50%;
+    border: none;
+    height: 100%;
+    border-radius: 6px 0 0 6px;
+    margin-left: 22px;
+    border-right: 1px solid rgba(0, 0, 0, 0.1);
+    &:focus {
+      outline: none;
+    }
+    &::placeholder {
+      color: rgba(0, 0, 0, 0.6);
+      font-size: 16px;
+    }
+  }
+
+  &SearchIcon {
+    margin-left: 22px;
+  }
+
+  &SubmitBtn {
+    height: 80px;
+    background: #ba2130;
+    width: 212px;
+    border: 0;
+    border-radius: 0 6px 6px 0;
+  }
+
+  &SelectContainer {
+    width: 50%;
+  }
+}

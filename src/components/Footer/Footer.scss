@@ -1,0 +1,17 @@
+.FooterSocialLinks {
+  min-width: 290px;
+}
+
+.FooterLink {
+  color: rgba(0, 0, 0, 0.6);
+  font-weight: 600;
+  margin-right: 50px;
+  &:hover {
+    color: rgba(0, 0, 0, 0.6);
+    text-decoration: none;
+  }
+}
+
+.FooterLinkContainer {
+  height: 68px;
+}
