@@ -1,7 +1,5 @@
 import React from "react";
 import "./Jobs.scss";
-// import opera from "../../Images/Brands/opera.png";
-import PropTypes from "prop-types";
 
 function JobItem({ data }) {
   return (
